@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: mohinipatil26/myimage_8
+        image: mohinipatil26/myimage_2
         ports:
         - containerPort: 8080
